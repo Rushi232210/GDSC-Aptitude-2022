@@ -165,7 +165,7 @@ B. 225
 C. 245
 D. 240
 E. 230
-
+ans : 205
 8. If the average number of qualified candidates in 2002 and 2005 was 433, what percent of
 appeared candidates qualified in the competitive exam in 2002?
 A. 60%
